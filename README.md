@@ -5,6 +5,7 @@
 #
 
 ##### To buil any app you should use [Xcode](https://developer.apple.com/xcode/)
+Compatibility: iOS/iPadOS 15.4+ 
 
 #
 ## App List
