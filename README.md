@@ -4,8 +4,7 @@
 ### This repository has my (simple) apps made in swift
 #
 
-##### To buil any app you should use [Xcode](https://developer.apple.com/xcode/)
-Compatibility: iOS/iPadOS 15.4+ 
+##### To build any app you should use [Xcode](https://developer.apple.com/xcode/)
 
 #
 ## App List
